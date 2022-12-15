@@ -1,4 +1,4 @@
-Hi, you can call me Atreus75, in some cases 4Tr3U5 :).
+Hi, you can tell me Atreus75, in some cases 4Tr3U5 :).
 
 I am passionate about Information Security and Pentest.
 
