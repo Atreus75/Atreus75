@@ -1,3 +1,3 @@
-I’m interested in low-level systems, binary internals, and computer security.
+I’m interested in low-level systems, blue teaming, and computer security.
 
-This repository contains projects and notes related to ELF binaries, operating systems, exploitation, post-exploitations, a little bit of web pentest and security research.
+Here you'll find projects related to defensive security tools, operating system's internal workings, security research and low-level security.
