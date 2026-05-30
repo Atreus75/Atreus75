@@ -23,4 +23,4 @@ Process Monitoring • Reverse Engineering • Malware Research
 Behavioral Analysis • Security Tooling • ELF/PE Internals
 ```
 
-> "If you want to understand a system, observe its behavior."
+> "If you want to defend a system, understand it."
